@@ -9,5 +9,5 @@ Download here: [Releases](https://github.com/eapowertools/qs-qvd-monitor/release
 
 Screenshot
 
-[![QVD Monitor Dashboard.png](images/QVD Monitor Dashboard.png)](https://raw.githubusercontent.com/eapowertools/qs-qvd-monitor/master/images/QVD Monitor Dashboard.png)
+![QVD Monitor Dashboard](https://user-images.githubusercontent.com/15800377/79216426-bdf9d780-7e12-11ea-9e1e-19d216f9306b.png)
 
